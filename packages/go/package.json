@@ -20,7 +20,7 @@
     "*.go"
   ],
   "devDependencies": {
-    "@tootallnate/once": "1.1.2",
+    "@tootallnate/once": "3.0.1",
     "@types/async-retry": "1.4.5",
     "@types/execa": "^0.9.0",
     "@types/fs-extra": "^5.0.5",
